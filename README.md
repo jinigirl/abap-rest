@@ -1,3 +1,3 @@
 # Simple ABAP REST API
 
-Cloned [abapGit](https://github.com/larshp/abapGit)
+Cloned from [abap-rest-api](https://github.com/pacroy/abap-rest-api)
